@@ -1,0 +1,8 @@
+/build
+/bin
+/.settings
+/.gredle
+/eclipse
+.classpath
+.project
+Install.bat
